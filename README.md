@@ -29,10 +29,10 @@ Coding is HARD, FUN, A JOURNEY, LIFE
 
 
 ## Contact
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fraselldev-vercel.vercel.app)](https://etgarkurniawan.com)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fraselldev-vercel.vercel.app)](https://etgarkurniawan.my.id)
 
-<a href="mailto:hi@etgarkurniawan.my.id">
-<img src="https://img.shields.io/badge/hi@etgarkurniawan.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="rakarasell@outlook.com"></a>
+<a href="mailto:etgarkurniawan@gmail.com">
+<img src="https://img.shields.io/badge/etgarkurniawan@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="etgarkurniawan@gmail.com"></a>
 
 <a  href="https://www.instagram.com/etgar_notes/">
 <img src="https://img.shields.io/badge/@etgar_notes-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>

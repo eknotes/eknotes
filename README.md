@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 
-
 ## About Me
 
 
@@ -27,10 +13,10 @@ Coding is HARD, FUN, A JOURNEY, LIFE
 
 
 ## Contact
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fraselldev-vercel.vercel.app)](https://etgarkurniawan.my.id)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fraselldev-vercel.vercel.app)](https://ekdev-studio.vercel.app)
 
-<a href="mailto:halo@etgarkurniawan.my.id">
-<img src="https://img.shields.io/badge/halo@etgarkurniawanmy.id-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="halo@etgarkurniawan.my.id"></a>
+<a href="mailto:etgarkurniawan@gmail.com">
+<img src="https://img.shields.io/badge/etgarkurniawan@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="etgarkurniawan@gmail.com"></a>
 
 <a  href="https://www.instagram.com/etgar_notes/">
 <img src="https://img.shields.io/badge/@etgar_notes-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
